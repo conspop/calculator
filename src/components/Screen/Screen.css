@@ -1,0 +1,11 @@
+.Screen {
+  grid-column: 1 / span 4;
+  grid-row: 1 / span 1;
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size:25px;
+  background-color: lightgray;
+  justify-self: stretch;
+  padding: 20px;
+} 
